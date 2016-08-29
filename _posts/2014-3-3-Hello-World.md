@@ -5,6 +5,8 @@ title: Week of August 28th
 
 ## What did you do this past week?
 
+This past week in class We had our introduction and begun to learn the inital steps for professional software development
+
 ## What’s in your way?
 
 ## What will you do next week?
